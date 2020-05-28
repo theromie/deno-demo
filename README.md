@@ -3,7 +3,7 @@ Sample code to understand Deno
 
 ### const deno = 'node'.split('').sort().join('');
 
-I hope you have install deno on your install. If not follow install guide on https://deno.land/
+I hope you have install deno on your system. If not follow install guide on https://deno.land/
 
 - I have made calc.ts file inside libs directory and imported into index.ts. 
 - You can also upload calc.ts on remote server and add server path to index.ts

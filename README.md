@@ -1,6 +1,8 @@
 # Deno-demo
 Sample code to understand Deno
 
+### const deno = `node`.split('').sort().join('');
+
 I hope you have install deno on your install. If not follow install guide on https://deno.land/
 
 - I have made calc.ts file inside libs directory and imported into index.ts. 

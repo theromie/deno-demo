@@ -12,7 +12,7 @@ Clone repository and run
 $ cd deno-demo
 $ deno run --allow-net index.ts
 ```
---allow-net flag allows to run on local network or else you will encounter following error
+--allow-net flag allows file to run on local network or else you will encounter following error
 ```sh
 error: Uncaught PermissionDenied: network access to "0.0.0.0:<PORT>", run again with the --allow-net flag
 ```
